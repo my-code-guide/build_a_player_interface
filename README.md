@@ -1,6 +1,6 @@
 # Build a Player Interface
 
-This project is part of a YouTube tutorial on the My Code Guide channel link to the chanel and link to the tutorial.
+This project is part of a YouTube tutorial on the My Code Guide channel link to the chanel and link to the [tutorial](https://youtu.be/hn3rQb6qV6E).
 
 It walks through the freeCodeCamp (FCC) Python curriculum and shows how to build [Build a Player Interface](https://www.freecodecamp.org/learn/python-v9/lab-player-interface/build-a-player-interface) step-by-step.
 
